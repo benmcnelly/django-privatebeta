@@ -58,7 +58,7 @@ The above templates assume a standard Django template structure with a
 The included views take two optional keyword arguments for flexibility.:
 
 ``template_name``
-    The name of the tempalte to render.  Optional, overrides the default
+    The name of the template to render.  Optional, overrides the default
     template.
 
 ``extra_context``
